@@ -2,7 +2,7 @@
 
 > This's just a fork of the original repository with the binary file added so you don't have to compile it yourself.
 
-To see how it could be used in action, see the tweet from [@fatih](https://github.com/fatih/) https://twitter.com/fatih/status/1236067718266105857
+To see how it could be used in action, see the tweet from [@fatih](https://twitter.com/fatih/status/1236067718266105857).
 
 ## Usage
 
